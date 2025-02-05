@@ -20,44 +20,4 @@ Expected Outcome: The platform will connect freelancers with a wide range of job
 leading to better job satisfaction and increased income opportunities. 
 
 
-                                                                       Key Features
-2.1 Freelance Job Marketplace
--Job Posting by Employers
--Project Categories and Filters
-2.2 Freelancer Profile & Portfolio Management
--Profile Creation with Skills, Experience, and Portfolio
--Video Portfolio and resume Uploads by employe
--Rating and Review System
--Badge System for Social Impact Projects(Rewards for Completing Projects with High Ratings)
-2.3 Search & Analytics
--Job Recommendations
--Search Filters (Location, Skill, Project Type)
-2.4 Escrow Account & Payment System
--(Blockchain Integration: Ethereum Smart Contracts for Escrow )
--Secure Payment Gateway Integration 
-2.5 Communication & Collaboration Tools
--Direct Messaging between Employers and Freelancers video calls(jitsi extension )
--Task Tracking
--Mentorship Program for New Freelancers
-
-
-                                                                   User Roles and Functionalities
-3.1 Freelancers
--Register and Create Profiles
--Search and Apply for Jobs
--Manage Projects
--Submit Deliverables
--Get Paid Securely
-3.2 Employers
--Post Projects
--Search and Invite Freelancers
--Manage Project Progress
--Approve Deliverables
--Release Payments
-3.3 Admin
--User Management
--Analytics and Reporting
-
-
-
-
+                                                                      
